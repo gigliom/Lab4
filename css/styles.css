@@ -4,7 +4,7 @@
 body {
 	
 }
-
+/*css for if div*/
 .if{
 	width: 600px;
 	height: 500px;
@@ -20,13 +20,15 @@ body {
 	float: left;
 	margin-right: -75px;
 }
+/*end of css for if div*/
+/*ID for adobe header*/
 #adobe{
 	color: red;
 	font-size: 1.75em;
 	font-weight: 200;
 	margin-bottom: -15px;
 }
-
+/*ID for website link*/
 #website{
 	color: gray;
 	font-size: 1.5em;
@@ -34,11 +36,11 @@ body {
 	text-align: center;
 	line-height: .1em;
 }
-
+/*ID for making list title bold*/
 #bold{
 	font-weight: bold;
 }
-
+/*begin body css*/
 .body{
 
 }
@@ -56,3 +58,4 @@ hr {
 .body p{
 	width: 350px;
 }
+/*end body css*/
