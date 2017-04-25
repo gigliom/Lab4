@@ -18,11 +18,41 @@ body {
 .if img{
 	width: 400px;
 	float: left;
+	margin-right: -75px;
 }
 #adobe{
 	color: red;
+	font-size: 1.75em;
+	font-weight: 200;
+	margin-bottom: -15px;
+}
+
+#website{
+	color: gray;
+	font-size: 1.5em;
+	margin-bottom: 30px;
+	text-align: center;
+	line-height: .1em;
+}
+
+#bold{
+	font-weight: bold;
 }
 
 .body{
+
+}
+hr {
+	margin-right: 50px;
+}
+.body img{
+	width: auto;
+	height: 50px;
 	float: right;
+	margin-top: -45px;
+	margin-right: 20px;
+}
+
+.body p{
+	width: 350px;
 }
