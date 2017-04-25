@@ -1,3 +1,28 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	
+}
+
+.if{
+	width: 600px;
+	height: 500px;
+	background-color: black;
+}
+.if p{
+	color: white;
+	padding-top: 290px;
+	margin-bottom: -290px;
+}
+.if img{
+	width: 400px;
+	float: left;
+}
+#adobe{
+	color: red;
+}
+
+.body{
+	float: right;
+}
